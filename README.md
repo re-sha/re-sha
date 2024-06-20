@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @re-sha
 - 👀 I’m interested in coding, reading & experimenting
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Patient Management Software
+- 💞️ I’m looking on collaborating with like minded individuals on Patient Management Software
 - ⚡ Fun fact: I love coffee :)
 
 <!---
