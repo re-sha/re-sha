@@ -23,4 +23,4 @@ When I'm not coding, you can find me experimenting with new technologies over a 
 
 ### Snake game on my contribution graph
 
-![GitHub Snake](https://raw.githubusercontent.com/re-sha/re-sha/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/re-sha/re-sha/output/github-snake.svg)
