@@ -16,11 +16,10 @@ When I'm not coding, you can find me experimenting with new technologies over a 
 
 ## Pins
 
+[![An image of @resha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/resha)](https://holopin.io/@resha)
+
 <!-- DailyDev card -->
 <a href="https://app.daily.dev/re_sha"><img src="https://api.daily.dev/devcards/v2/QtEgpcqnUpXa1J3rXlOLA.png?type=wide&r=qfg" width="700" alt="Re-sha's Dev Card"/></a>
 
-[![An image of @resha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/resha)](https://holopin.io/@resha)
 
-
-### Snake game on my contribution graph
-![GitHub Snake](https://raw.githubusercontent.com/re-sha/re-sha/output/github-snake.svg)
+### See my contributions be eaten by this purple snake!![GitHub Snake](https://raw.githubusercontent.com/re-sha/re-sha/output/github-snake.svg)
