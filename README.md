@@ -1,7 +1,6 @@
-## Hey everybody, I'm Resha
+## Hey everyone 👋
 
-:wave: Hi, I'm a Junior Software Developer who thrives on crafting solutions that are user-friendly.
-
+Hi, I'm a Developer who thrives on crafting solutions that are user-friendly.
 When I'm not coding, you can find me experimenting with new technologies over a cup of coffee.
 
 
