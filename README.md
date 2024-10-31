@@ -17,8 +17,8 @@ When I'm not coding, you can find me experimenting with new technologies over a 
 ## Pins
 
 <!-- DailyDev card -->
-<a href="https://app.daily.dev/re_sha"><img src="https://api.daily.dev/devcards/v2/QtEgpcqnUpXa1J3rXlOLA.png?type=default&r=cv1" width="250" alt="Re-sha's Dev Card"/></a>
-<img display="flex" width="250" height="250" src="https://github.com/re-sha/re-sha/blob/main/girl.gif" alt="octogirl gif"></a>
+<a href="https://app.daily.dev/re_sha"><img src="https://api.daily.dev/devcards/v2/QtEgpcqnUpXa1J3rXlOLA.png?type=wide&r=qfg" width="700" alt="Re-sha's Dev Card"/></a>
+
 [![An image of @resha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/resha)](https://holopin.io/@resha)
 
 
