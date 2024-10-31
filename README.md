@@ -8,7 +8,7 @@ When I'm not coding, you can find me experimenting with new technologies over a 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=re-sha&theme=python-dark&border_radius=10" width="700">
 
-<img src="https://github-profile-trophy.vercel.app/?username=re-sha&theme=onestar&title=-Stars,-Experience,-Reviews&column=-1&margin-w=37&no-frame=false">
+<img src="https://github-profile-trophy.vercel.app/?username=re-sha&theme=onestar&title=-Stars,-Experience,-Reviews&column=-1&margin-w=37&no-frame=true">
 
 <img src="https://github-readme-stats.vercel.app/api?username=re-sha&show=discussions_answered,prs_merged_percentage&hide=stars,issues&theme=holi&show_icons=true" width="700">
 
