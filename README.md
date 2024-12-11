@@ -11,8 +11,6 @@ When I'm not coding, you can find me experimenting with new technologies over a 
 
 <img src="https://github-profile-trophy.vercel.app/?username=re-sha&theme=onestar&title=-Stars,-Experience,-Reviews&column=-1&margin-w=37&no-bg=false">
 
-<img src="https://github-readme-stats.vercel.app/api?username=re-sha&show=discussions_answered,prs_merged_percentage&hide=stars,issues&theme=holi&show_icons=true" width="700">
-
 
 ## Pins
 
