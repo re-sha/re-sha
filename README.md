@@ -2,7 +2,7 @@
 <img align="right" width="150" height="150" margin-bottom="200" src="https://github.com/re-sha/re-sha/blob/main/girl.gif" alt="octogirl gif"></a>
 Hi, I'm a Developer who thrives on crafting solutions that are user-friendly.
 
-I enjoy crafting and listening to speeches and ted talks.
+I enjoy reading and love listening to speeches and ted talks.
 When I'm not coding, you can find me experimenting with new technologies over a cup of coffee.
 
 ## GitHub Stats
